@@ -212,6 +212,7 @@ input, select, textarea {
 /* BG */
 
 	#bg {
+		/*
 		-moz-animation: bg 60s linear infinite;
 		-webkit-animation: bg 60s linear infinite;
 		-ms-animation: bg 60s linear infinite;
@@ -224,6 +225,7 @@ input, select, textarea {
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
+		*/
 	/* Set your background with this */
 
 		background: #348cb2 url("images/bg-new.jpg") bottom left;
